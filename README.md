@@ -1,3 +1,3 @@
-![](https://github.com/aboveaveragesoft/art-assets/logo/bitmap/Logo-256.png)
+![](logo/bitmap/Logo-256.png)
 # Above Average Software Art Assets
 All images, gifs and graphics regarding our projects or logos are stored in this repository
