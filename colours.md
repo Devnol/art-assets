@@ -1,11 +1,6 @@
-
+# Colour palette
 ## Company palette
-<div style="background-color:#00d4aa; border-radius: 16px; padding: 4px; text-align: center;">
-<p style="color:whitesmoke;"> Primary colour: #00d4aa</p>
-</div>
-<div style="background-color:#ff2535; border-radius: 16px; padding: 4px; text-align: center;">
-<p style="color:whitesmoke"> Secondary colour: #ff2535</p>
-</div>
-<div style="background-color:#333333; border-radius: 16px; padding: 4px; text-align: center;">
-<p style="color:whitesmoke"> Background colour: #333333</p>
-</div>
+
+### ![#00d4aa](https://via.placeholder.com/15/00d4aa/000000&text=+) Primary colour: `#00d4aa`
+### ![#ff2535](https://via.placeholder.com/15/ff2535/000000&text=+) Secondary colour: `#ff2535`
+### ![#333333](https://via.placeholder.com/15/333333/000000&text=+) Background colour: `#333333`
