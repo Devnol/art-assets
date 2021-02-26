@@ -1,4 +1,4 @@
-# Colour palette
+# Color palette
 ## Company palette
 
 ### ![#00d4aa](https://via.placeholder.com/20/00d4aa/000000&text=+) Primary color: `#00d4aa`
